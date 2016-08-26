@@ -1,0 +1,6 @@
+OpenLibrary links to genres
+https://openlibrary.org/subjects/history
+https://openlibrary.org/subjects/romance
+https://openlibrary.org/subjects/business
+https://openlibrary.org/subjects/science_fiction
+https://openlibrary.org/subjects/fantasy
