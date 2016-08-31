@@ -4,3 +4,8 @@ https://openlibrary.org/subjects/romance
 https://openlibrary.org/subjects/business
 https://openlibrary.org/subjects/science_fiction
 https://openlibrary.org/subjects/fantasy
+
+Glove Starter
+http://textminingonline.com/category/nlp
+ttp://nlp.yvespeirsman.be/blog/glove/
+Have a look at demo.sh file
